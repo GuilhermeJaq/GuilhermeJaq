@@ -9,5 +9,5 @@
 
 ##
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></img></a>
+<a href="https://store.steampowered.com/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></img></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></img></a>
